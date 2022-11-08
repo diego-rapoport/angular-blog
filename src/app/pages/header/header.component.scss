@@ -1,0 +1,15 @@
+header {
+  text-align: center;
+  color: #FCD07E;
+  display: flex;
+  justify-content: space-between;
+  background: rgba(157, 75, 232, 1.0);
+  background: -webkit-linear-gradient(left, rgba(157, 75, 232, 1.0), rgba(13, 10, 9, 1.0));
+  background: -moz-linear-gradient(left, rgba(157, 75, 232, 1.0), rgba(13, 10, 9, 1.0));
+  background: linear-gradient(to right, rgba(157, 75, 232, 1.0), rgba(13, 10, 9, 1.0));
+}
+
+hr {
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
