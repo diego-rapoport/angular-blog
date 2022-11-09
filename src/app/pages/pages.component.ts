@@ -5,6 +5,8 @@ import { Component, OnInit } from '@angular/core';
   template: `
     <app-header>
     </app-header>
+    <app-body>
+    </app-body>
   `,
   styleUrls: ['./pages.component.scss']
 })
